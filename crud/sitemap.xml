@@ -1,0 +1,14 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap-image/1.1">
+    <url>
+        <loc>https://example.com/index.php</loc>
+        <lastmod>2024-09-18</lastmod>
+    </url>
+    <url>
+        <loc>https://example.com/agregar.php</loc>
+        <lastmod>2024-09-18</lastmod>
+    </url>
+    <url>
+        <loc>https://example.com/editar.php</loc>
+        <lastmod>2024-09-18</lastmod>
+    </url>
+</urlset>
